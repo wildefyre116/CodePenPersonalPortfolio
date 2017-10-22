@@ -1,0 +1,134 @@
+body {
+  margin-top:50px;
+  padding-top:10px;
+  color:#cc99ff;
+  background-color:#660099;
+  background-image:
+    url("https://s-media-cache-ak0.pinimg.com/originals/76/e9/62/76e962354aa3507c23d28a89c9a7b678.jpg");
+  }
+.nav-link  {
+  text-align:center;
+  margin:auto;
+  margin:3px;
+  width:60px;
+  border:1px solid #cc99ff;
+  border-radius:5px;
+  color:#cc99ff;
+  background-color:#660099;
+  font-family:'Cormorant Garamond', serif;
+}
+.navbar-brand {
+  color:#cc99ff;
+  font-family:'Lobster', cursive;
+}
+.jumbotron {
+  border:5px solid #cc99ff;
+  border-radius:15px;
+  background-color:#330099;
+}
+
+h1 {
+  font-family:'Lobster', cursive;
+}
+p {
+  font-family:'Cormorant Garamond', serif;
+}
+.centered {
+  text-align:center;
+}
+ul {
+  display:inline;
+}
+ul li {
+  list-style:none;display:inline;
+  padding:5px;
+}
+.MePic {
+ position:relative;
+  margin-top:30px;
+  
+  height:200px;
+  border-radius:160px;
+ border:3px solid #cc99ff;
+}
+
+hr.type_4 {
+border:0;
+height:55px;
+background-image: url("https://d13dcw7qo4xgly.cloudfront.net/wp-content/uploads/2014/12/type_4.png");
+background-repeat: no-repeat;
+}
+.LongKesh {
+  position:relative;
+  margin:20px;
+  height:175px;
+  width:200px;
+  border:3px solid #cc99ff;
+}
+.Galaxy {
+  position:relative;
+  margin:20px;
+  height:175px;
+  width:200px;
+  border:3px solid #cc99ff;
+}
+.Landscape {
+  position:relative;
+  margin:20px;
+  height:175px;
+  width:200px;
+  border:3px solid #cc99ff;
+  
+}
+.Totoro {
+  position:relative;
+  margin:20px;
+  height:175px;
+  width:200px;
+  border:3px solid #cc99ff;
+}
+.triskele {
+  position:relative;
+  float:right;
+  margin:20px;
+  height:100px;
+  width:100px;
+  
+} 
+.Song {
+  position:relative;
+  margin:20px;
+  height:175px;
+  width:200px;
+  border:3px solid #cc99ff;
+}
+.Aislin {
+  position:relative;
+  margin:20px;
+  height:175px;
+  width:200px;
+  border:3px solid #cc99ff;
+}
+.fairy {
+  position:relative;
+  margin:20px;
+  height:175px;
+  width:200px;
+  border:3px solid #cc99ff;
+}
+.dragon {
+  position:relative;
+  margin:20px;
+  height:175px;
+  width:200px;
+  border:3px solid #cc99ff;
+}
+.form {
+  padding:0px;
+  border:3px solid #cc99ff;
+  border-radius:10px;
+  font-family:'Cormorant Garamond', serif;
+}
+h4 {
+  font-family:'Cormorant Garamond', serif;
+}
